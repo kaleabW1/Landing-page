@@ -22,14 +22,20 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+	background-color: #4e1a75;
+
+}
+	
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	display: block;}
+	display: block;
+}
 
 body {
 	line-height: 1;
+	;
 }
 
 ol, ul {

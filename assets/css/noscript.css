@@ -8,6 +8,7 @@
 
 	.spotlights > section > .image:before {
 		opacity: 0 !important;
+		background-color: rgba(39, 175, 78, 0.5);
 	}
 
 	.spotlights > section > .content > .inner {
@@ -16,6 +17,7 @@
 		-ms-transform: none !important;
 		transform: none !important;
 		opacity: 1 !important;
+		color: #cec2c2;
 	}
 
 /* Wrapper */
