@@ -22,8 +22,9 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
+	color: #c3c1c7;
 	vertical-align: baseline;
-	background-color: #4e1a75;
+	background-color: purple;
 
 }
 	
@@ -193,7 +194,7 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 2.75em;
+		font-size: 1.75em;
 	}
 
 		h1.major {
