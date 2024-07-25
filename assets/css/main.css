@@ -22,9 +22,9 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	color: #0980b3;
+	color: white;
 	vertical-align: baseline;
-	background-color: rgb(18, 17, 18);
+	background-color: rgb(109, 10, 109);
 
 }
 	
@@ -1874,7 +1874,7 @@ input, select, textarea {
 			-ms-transition: opacity 0.2s ease, -ms-transform 0.2s ease;
 			transition: opacity 0.2s ease, transform 0.2s ease;
 			background: #d90c0c;
-			border-radius: 2em;
+			border-radius: em;
 			content: '';
 			height: 100%;
 			left: 0;
@@ -3247,7 +3247,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #161617;
+			background-color: #310344;
 		}
 
 		.wrapper.style1-alt {
